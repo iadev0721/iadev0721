@@ -9,7 +9,7 @@
     <em>Diseño sistemas de IA aplicada para producción, con ingeniería de software full-stack como base.</em>
   </p>
 
-  <a href="https://portfolio-iadev.vercel.app/">
+  <a href="https://portfolio-iadev-kappa.vercel.app/">
     <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO_WEB-255E63?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" alt="Portfolio" height="45" />
   </a>
 
